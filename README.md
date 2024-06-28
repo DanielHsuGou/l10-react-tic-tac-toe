@@ -1,3 +1,12 @@
+# Demo
+
+1. Lift the state up
+   - siblings don't know each other's value
+   - pass the state to parent for children value
+2. ** Set array state **
+3. Pass function from parent to components
+4. Game array check conditions
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
